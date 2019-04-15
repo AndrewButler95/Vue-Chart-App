@@ -1,0 +1,1343 @@
+{
+    "Response": "Success",
+    "Message": "",
+    "HasWarning": false,
+    "Type": 100,
+    "RateLimit": {},
+    "Data": {
+        "/": {
+            "IP": {
+                "hour": 2562,
+                "day": 45075,
+                "month": 1070092,
+                "total_calls": 12815829,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 3,
+                "day": 35,
+                "month": 1004,
+                "total_calls": 9745,
+                "last_used": 1555339013
+            },
+            "AuthKey": {
+                "hour": 6,
+                "day": 159,
+                "month": 5658,
+                "total_calls": 58072,
+                "last_used": 1555339730
+            }
+        },
+        "/data/json/path": {
+            "IP": {
+                "hour": 62,
+                "day": 539,
+                "month": 13506,
+                "total_calls": 125344,
+                "last_used": 1555339818
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 9,
+                "day": 186,
+                "month": 6284,
+                "total_calls": 63506,
+                "last_used": 1555339730
+            }
+        },
+        "/stats": {
+            "IP": {
+                "hour": 1261,
+                "day": 22261,
+                "month": 525982,
+                "total_calls": 1081937,
+                "last_used": 1555339819
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 13,
+                "total_calls": 1050,
+                "last_used": 1555050803
+            }
+        },
+        "/stats/global/unique": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 79,
+                "last_used": 1544631955
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 2245,
+                "month": 221721,
+                "total_calls": 2837007,
+                "last_used": 1555334600
+            }
+        },
+        "/stats/min": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 40,
+                "total_calls": 5278112,
+                "last_used": 1555061132
+            },
+            "ApiKey": {
+                "hour": 6043,
+                "day": 106707,
+                "month": 1998568,
+                "total_calls": 1999636,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 15123,
+                "day": 82173,
+                "month": 5694964,
+                "total_calls": 71388703,
+                "last_used": 1555339822
+            }
+        },
+        "/stats/cache": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 1,
+                "last_used": 1542036531
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 3,
+                "last_used": 1552309325
+            }
+        },
+        "/stats/global/endpoint": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 8539,
+                "last_used": 1553611431
+            },
+            "AuthKey": {
+                "hour": 4,
+                "day": 4,
+                "month": 4,
+                "total_calls": 33,
+                "last_used": 1555339812
+            }
+        },
+        "/stats/global/endpoint/all": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 18160,
+                "last_used": 1553611431
+            },
+            "AuthKey": {
+                "hour": 2,
+                "day": 2,
+                "month": 2,
+                "total_calls": 46,
+                "last_used": 1555339825
+            }
+        },
+        "/stats/rate/limit": {
+            "IP": {
+                "hour": 1893,
+                "day": 49069,
+                "month": 1272917,
+                "total_calls": 25600099,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 5,
+                "day": 77,
+                "month": 1822,
+                "total_calls": 272670,
+                "last_used": 1555337967
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 2,
+                "month": 147,
+                "total_calls": 2283,
+                "last_used": 1555326875
+            }
+        },
+        "/stats/rate/hour/limit": {
+            "IP": {
+                "hour": 1341,
+                "day": 22558,
+                "month": 562243,
+                "total_calls": 11324801,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 14,
+                "total_calls": 1159,
+                "last_used": 1555082605
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 24,
+                "total_calls": 413,
+                "last_used": 1555229905
+            }
+        },
+        "/stats/calls/api/keys": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 13,
+                "last_used": 1544720363
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 40,
+                "last_used": 1545217367
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 48,
+                "last_used": 1544720370
+            }
+        },
+        "/stats/calls/auth/keys": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 1,
+                "last_used": 1540290931
+            }
+        },
+        "/stats/server/hard/blocked": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 2,
+                "last_used": 1543237836
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 6,
+                "total_calls": 93,
+                "last_used": 1554739672
+            }
+        },
+        "/data/price": {
+            "IP": {
+                "hour": 2402745,
+                "day": 34933806,
+                "month": 879500476,
+                "total_calls": 11614185739,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 36276,
+                "day": 622230,
+                "month": 15297189,
+                "total_calls": 84627457,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 536,
+                "day": 4997,
+                "month": 80614,
+                "total_calls": 397963,
+                "last_used": 1555339825
+            }
+        },
+        "/data/pricemulti": {
+            "IP": {
+                "hour": 815776,
+                "day": 13123412,
+                "month": 354420267,
+                "total_calls": 4216699917,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 12636,
+                "day": 182201,
+                "month": 3580169,
+                "total_calls": 19707962,
+                "last_used": 1555339824
+            },
+            "AuthKey": {
+                "hour": 5,
+                "day": 95,
+                "month": 2912,
+                "total_calls": 50826,
+                "last_used": 1555339090
+            }
+        },
+        "/data/pricemultifull": {
+            "IP": {
+                "hour": 3209590,
+                "day": 46987067,
+                "month": 1314225401,
+                "total_calls": 16634057137,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 18197,
+                "day": 297403,
+                "month": 8097103,
+                "total_calls": 38623427,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 1721,
+                "day": 18306,
+                "month": 592784,
+                "total_calls": 1707200,
+                "last_used": 1555339822
+            }
+        },
+        "/data/generateAvg": {
+            "IP": {
+                "hour": 230556,
+                "day": 3985601,
+                "month": 104015791,
+                "total_calls": 735175032,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 735,
+                "day": 13016,
+                "month": 392517,
+                "total_calls": 4302290,
+                "last_used": 1555339824
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 250,
+                "total_calls": 1829,
+                "last_used": 1555270579
+            }
+        },
+        "/data/histoday": {
+            "IP": {
+                "hour": 290543,
+                "day": 5664666,
+                "month": 145916028,
+                "total_calls": 1945918716,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 12613,
+                "day": 230779,
+                "month": 4492051,
+                "total_calls": 27294260,
+                "last_used": 1555339822
+            },
+            "AuthKey": {
+                "hour": 1051,
+                "day": 15138,
+                "month": 675842,
+                "total_calls": 3118779,
+                "last_used": 1555339819
+            }
+        },
+        "/data/histohour": {
+            "IP": {
+                "hour": 519724,
+                "day": 8285971,
+                "month": 202549144,
+                "total_calls": 4469392679,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 119119,
+                "day": 1701623,
+                "month": 27486619,
+                "total_calls": 154198957,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 24815,
+                "day": 363173,
+                "month": 11998363,
+                "total_calls": 60505342,
+                "last_used": 1555339825
+            }
+        },
+        "/data/histominute": {
+            "IP": {
+                "hour": 1211990,
+                "day": 20823786,
+                "month": 506307289,
+                "total_calls": 4366237136,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 21347,
+                "day": 397072,
+                "month": 8773466,
+                "total_calls": 94657583,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 3051,
+                "day": 33188,
+                "month": 1408584,
+                "total_calls": 6812466,
+                "last_used": 1555339823
+            }
+        },
+        "/data/pricehistorical": {
+            "IP": {
+                "hour": 80409,
+                "day": 1729094,
+                "month": 66487665,
+                "total_calls": 828772220,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 2002,
+                "day": 42074,
+                "month": 1336501,
+                "total_calls": 9583035,
+                "last_used": 1555339822
+            },
+            "AuthKey": {
+                "hour": 3,
+                "day": 138,
+                "month": 8812,
+                "total_calls": 56054,
+                "last_used": 1555338669
+            }
+        },
+        "/data/dayAvg": {
+            "IP": {
+                "hour": 5242,
+                "day": 129712,
+                "month": 3348205,
+                "total_calls": 57473367,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 143,
+                "day": 9120,
+                "month": 179823,
+                "total_calls": 571550,
+                "last_used": 1555338958
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 9,
+                "month": 248,
+                "total_calls": 1987,
+                "last_used": 1555328663
+            }
+        },
+        "/data/exchange/histoday": {
+            "IP": {
+                "hour": 341,
+                "day": 1930,
+                "month": 65010,
+                "total_calls": 3003647,
+                "last_used": 1555339752
+            },
+            "ApiKey": {
+                "hour": 1,
+                "day": 380,
+                "month": 8410,
+                "total_calls": 57777,
+                "last_used": 1555338175
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 16,
+                "month": 139,
+                "total_calls": 1482,
+                "last_used": 1555331125
+            }
+        },
+        "/data/exchange/histohour": {
+            "IP": {
+                "hour": 124,
+                "day": 2149,
+                "month": 55673,
+                "total_calls": 3089305,
+                "last_used": 1555339752
+            },
+            "ApiKey": {
+                "hour": 2,
+                "day": 228,
+                "month": 3018,
+                "total_calls": 71207,
+                "last_used": 1555336982
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 8,
+                "month": 114,
+                "total_calls": 652,
+                "last_used": 1555330766
+            }
+        },
+        "/data/top/totalvolfull": {
+            "IP": {
+                "hour": 704,
+                "day": 9921,
+                "month": 2472517,
+                "total_calls": 51571207,
+                "last_used": 1555339822
+            },
+            "ApiKey": {
+                "hour": 110,
+                "day": 1680,
+                "month": 79687,
+                "total_calls": 237271,
+                "last_used": 1555339811
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 188,
+                "total_calls": 1705,
+                "last_used": 1555318058
+            }
+        },
+        "/data/top/mktcapfull": {
+            "IP": {
+                "hour": 572,
+                "day": 8508,
+                "month": 248803,
+                "total_calls": 1214865,
+                "last_used": 1555339818
+            },
+            "ApiKey": {
+                "hour": 224,
+                "day": 3189,
+                "month": 128354,
+                "total_calls": 583082,
+                "last_used": 1555339804
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 210,
+                "total_calls": 2013,
+                "last_used": 1555318095
+            }
+        },
+        "/data/top/exchanges": {
+            "IP": {
+                "hour": 12985,
+                "day": 271945,
+                "month": 7130896,
+                "total_calls": 76192360,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 5822,
+                "day": 80639,
+                "month": 2221371,
+                "total_calls": 5115180,
+                "last_used": 1555339822
+            },
+            "AuthKey": {
+                "hour": 18,
+                "day": 116,
+                "month": 4618,
+                "total_calls": 25959,
+                "last_used": 1555339756
+            }
+        },
+        "/data/top/exchanges/full": {
+            "IP": {
+                "hour": 60434,
+                "day": 994637,
+                "month": 35008360,
+                "total_calls": 680932440,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 753,
+                "day": 25015,
+                "month": 565414,
+                "total_calls": 2110040,
+                "last_used": 1555339825
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 72,
+                "total_calls": 1144,
+                "last_used": 1555248657
+            }
+        },
+        "/data/top/volumes": {
+            "IP": {
+                "hour": 237,
+                "day": 4444,
+                "month": 107865,
+                "total_calls": 1048580,
+                "last_used": 1555339821
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 15,
+                "month": 544,
+                "total_calls": 6723,
+                "last_used": 1555333330
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 83,
+                "total_calls": 767,
+                "last_used": 1555317771
+            }
+        },
+        "/data/top/pairs": {
+            "IP": {
+                "hour": 8929,
+                "day": 166399,
+                "month": 3883029,
+                "total_calls": 101648451,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 5,
+                "day": 183,
+                "month": 2255,
+                "total_calls": 129190,
+                "last_used": 1555339410
+            },
+            "AuthKey": {
+                "hour": 1,
+                "day": 16,
+                "month": 424,
+                "total_calls": 2571,
+                "last_used": 1555339494
+            }
+        },
+        "/data/top/totalvol": {
+            "IP": {
+                "hour": 7359,
+                "day": 104758,
+                "month": 2830690,
+                "total_calls": 36873155,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 64,
+                "day": 1004,
+                "month": 23309,
+                "total_calls": 186024,
+                "last_used": 1555339418
+            },
+            "AuthKey": {
+                "hour": 1111,
+                "day": 15028,
+                "month": 474779,
+                "total_calls": 2681005,
+                "last_used": 1555339824
+            }
+        },
+        "/data/top/mktcap": {
+            "IP": {
+                "hour": 1,
+                "day": 2,
+                "month": 1172,
+                "total_calls": 4796,
+                "last_used": 1555339156
+            },
+            "ApiKey": {
+                "hour": 28,
+                "day": 301,
+                "month": 9316,
+                "total_calls": 27663,
+                "last_used": 1555339522
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 20,
+                "total_calls": 479,
+                "last_used": 1555236586
+            }
+        },
+        "/data/subs": {
+            "IP": {
+                "hour": 75280,
+                "day": 934666,
+                "month": 19496190,
+                "total_calls": 166881410,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 1,
+                "day": 15,
+                "month": 8269,
+                "total_calls": 148377,
+                "last_used": 1555339627
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 147,
+                "total_calls": 1633,
+                "last_used": 1555309990
+            }
+        },
+        "/data/subsWatchlist": {
+            "IP": {
+                "hour": 156187,
+                "day": 2312076,
+                "month": 53065438,
+                "total_calls": 441209946,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 162,
+                "day": 14506,
+                "month": 350945,
+                "total_calls": 1552978,
+                "last_used": 1555339802
+            },
+            "AuthKey": {
+                "hour": 22,
+                "day": 220,
+                "month": 8739,
+                "total_calls": 63154,
+                "last_used": 1555339694
+            }
+        },
+        "/data/subsPairs": {
+            "IP": {
+                "hour": 2452,
+                "day": 34288,
+                "month": 1141679,
+                "total_calls": 8486945,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 2860,
+                "last_used": 1553852340
+            },
+            "AuthKey": {
+                "hour": 266,
+                "day": 3787,
+                "month": 139448,
+                "total_calls": 785340,
+                "last_used": 1555339824
+            }
+        },
+        "/data/coin/generalinfo": {
+            "IP": {
+                "hour": 2865,
+                "day": 42706,
+                "month": 954321,
+                "total_calls": 6169484,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 22,
+                "day": 1406,
+                "month": 20676,
+                "total_calls": 106327,
+                "last_used": 1555339813
+            },
+            "AuthKey": {
+                "hour": 394,
+                "day": 4168,
+                "month": 141487,
+                "total_calls": 385461,
+                "last_used": 1555339817
+            }
+        },
+        "/data/social/coin/latest": {
+            "IP": {
+                "hour": 1,
+                "day": 9,
+                "month": 825,
+                "total_calls": 2971,
+                "last_used": 1555337198
+            },
+            "ApiKey": {
+                "hour": 477,
+                "day": 5895,
+                "month": 183449,
+                "total_calls": 1093375,
+                "last_used": 1555339807
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 107,
+                "total_calls": 930,
+                "last_used": 1555328744
+            }
+        },
+        "/data/social/coin/histo/day": {
+            "IP": {
+                "hour": 0,
+                "day": 3,
+                "month": 956,
+                "total_calls": 1982,
+                "last_used": 1555320963
+            },
+            "ApiKey": {
+                "hour": 62,
+                "day": 6153,
+                "month": 100211,
+                "total_calls": 216135,
+                "last_used": 1555339056
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 5,
+                "month": 219,
+                "total_calls": 1148,
+                "last_used": 1555317519
+            }
+        },
+        "/data/social/coin/histo/hour": {
+            "IP": {
+                "hour": 15,
+                "day": 455,
+                "month": 11070,
+                "total_calls": 57782,
+                "last_used": 1555339463
+            },
+            "ApiKey": {
+                "hour": 165,
+                "day": 2917,
+                "month": 50717,
+                "total_calls": 192438,
+                "last_used": 1555339803
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 17,
+                "month": 925,
+                "total_calls": 6179,
+                "last_used": 1555332833
+            }
+        },
+        "/data/news/": {
+            "IP": {
+                "hour": 1894,
+                "day": 27391,
+                "month": 688771,
+                "total_calls": 8691374,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 6,
+                "month": 100,
+                "total_calls": 729,
+                "last_used": 1555334303
+            },
+            "AuthKey": {
+                "hour": 15,
+                "day": 330,
+                "month": 11109,
+                "total_calls": 68566,
+                "last_used": 1555339635
+            }
+        },
+        "/data/v2/news/": {
+            "IP": {
+                "hour": 3197,
+                "day": 51021,
+                "month": 1436034,
+                "total_calls": 16943066,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 1213,
+                "day": 20753,
+                "month": 283206,
+                "total_calls": 1340358,
+                "last_used": 1555339815
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 10,
+                "month": 535,
+                "total_calls": 3775,
+                "last_used": 1555326892
+            }
+        },
+        "/data/news/feeds": {
+            "IP": {
+                "hour": 20,
+                "day": 233,
+                "month": 6793,
+                "total_calls": 106411,
+                "last_used": 1555339807
+            },
+            "ApiKey": {
+                "hour": 8,
+                "day": 155,
+                "month": 5663,
+                "total_calls": 14484,
+                "last_used": 1555339272
+            },
+            "AuthKey": {
+                "hour": 1,
+                "day": 24,
+                "month": 869,
+                "total_calls": 6982,
+                "last_used": 1555337092
+            }
+        },
+        "/data/news/categories": {
+            "IP": {
+                "hour": 13,
+                "day": 129,
+                "month": 3223,
+                "total_calls": 80531,
+                "last_used": 1555339785
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 3,
+                "month": 1155,
+                "total_calls": 6170,
+                "last_used": 1555335845
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 15,
+                "total_calls": 192,
+                "last_used": 1555196361
+            }
+        },
+        "/data/news/feedsandcategories": {
+            "IP": {
+                "hour": 192,
+                "day": 2799,
+                "month": 81238,
+                "total_calls": 810674,
+                "last_used": 1555339802
+            },
+            "ApiKey": {
+                "hour": 1,
+                "day": 25,
+                "month": 653,
+                "total_calls": 3617,
+                "last_used": 1555336887
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 42,
+                "total_calls": 370,
+                "last_used": 1555331110
+            }
+        },
+        "/data/v2/all/exchanges": {
+            "IP": {
+                "hour": 329,
+                "day": 4451,
+                "month": 146640,
+                "total_calls": 390972,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 77,
+                "month": 562,
+                "total_calls": 17631,
+                "last_used": 1555333206
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 3,
+                "month": 162,
+                "total_calls": 1038,
+                "last_used": 1555328348
+            }
+        },
+        "/data/all/exchanges": {
+            "IP": {
+                "hour": 3643,
+                "day": 65640,
+                "month": 1479752,
+                "total_calls": 15497343,
+                "last_used": 1555339824
+            },
+            "ApiKey": {
+                "hour": 5,
+                "day": 87,
+                "month": 1996,
+                "total_calls": 73064,
+                "last_used": 1555339092
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 4,
+                "total_calls": 645,
+                "last_used": 1555258735
+            }
+        },
+        "/data/all/includedexchanges": {
+            "IP": {
+                "hour": 0,
+                "day": 2,
+                "month": 34,
+                "total_calls": 532,
+                "last_used": 1555320686
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 17,
+                "total_calls": 137,
+                "last_used": 1555105322
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 3,
+                "month": 57,
+                "total_calls": 323,
+                "last_used": 1555335628
+            }
+        },
+        "/data/all/coinlist": {
+            "IP": {
+                "hour": 67574,
+                "day": 984024,
+                "month": 23437059,
+                "total_calls": 263095670,
+                "last_used": 1555339825
+            },
+            "ApiKey": {
+                "hour": 332,
+                "day": 5151,
+                "month": 94120,
+                "total_calls": 663745,
+                "last_used": 1555339817
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 5,
+                "month": 273,
+                "total_calls": 3091,
+                "last_used": 1555328155
+            }
+        },
+        "/data/watchlist/following": {
+            "IP": {
+                "hour": 32,
+                "day": 406,
+                "month": 15334,
+                "total_calls": 69438,
+                "last_used": 1555339793
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 0,
+                "total_calls": 0,
+                "last_used": 0
+            },
+            "AuthKey": {
+                "hour": 280,
+                "day": 4144,
+                "month": 135141,
+                "total_calls": 705251,
+                "last_used": 1555339821
+            }
+        },
+        "/data/exchanges/general": {
+            "IP": {
+                "hour": 1,
+                "day": 11,
+                "month": 169,
+                "total_calls": 1555,
+                "last_used": 1555338091
+            },
+            "ApiKey": {
+                "hour": 2,
+                "day": 89,
+                "month": 1848,
+                "total_calls": 15586,
+                "last_used": 1555339288
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 2,
+                "month": 99,
+                "total_calls": 994,
+                "last_used": 1555328300
+            }
+        },
+        "/data/wallets/general": {
+            "IP": {
+                "hour": 3,
+                "day": 15,
+                "month": 364,
+                "total_calls": 922,
+                "last_used": 1555339691
+            },
+            "ApiKey": {
+                "hour": 1,
+                "day": 54,
+                "month": 1157,
+                "total_calls": 9301,
+                "last_used": 1555338392
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 24,
+                "total_calls": 262,
+                "last_used": 1555237323
+            }
+        },
+        "/data/cards/general": {
+            "IP": {
+                "hour": 1,
+                "day": 3,
+                "month": 29,
+                "total_calls": 269,
+                "last_used": 1555338094
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 3,
+                "month": 83,
+                "total_calls": 443,
+                "last_used": 1555307874
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 25,
+                "total_calls": 245,
+                "last_used": 1555328279
+            }
+        },
+        "/data/mining/contracts/general": {
+            "IP": {
+                "hour": 0,
+                "day": 1,
+                "month": 11,
+                "total_calls": 83,
+                "last_used": 1555320752
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 32,
+                "total_calls": 347,
+                "last_used": 1555319497
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 12,
+                "total_calls": 103,
+                "last_used": 1555274306
+            }
+        },
+        "/data/mining/equipment/general": {
+            "IP": {
+                "hour": 0,
+                "day": 0,
+                "month": 14,
+                "total_calls": 88,
+                "last_used": 1555020339
+            },
+            "ApiKey": {
+                "hour": 2,
+                "day": 14,
+                "month": 311,
+                "total_calls": 1576,
+                "last_used": 1555338385
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 10,
+                "total_calls": 75,
+                "last_used": 1555134174
+            }
+        },
+        "/data/mining/pools/general": {
+            "IP": {
+                "hour": 0,
+                "day": 8,
+                "month": 355,
+                "total_calls": 671,
+                "last_used": 1555286502
+            },
+            "ApiKey": {
+                "hour": 1,
+                "day": 54,
+                "month": 982,
+                "total_calls": 3645,
+                "last_used": 1555338389
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 22,
+                "total_calls": 102,
+                "last_used": 1555189292
+            }
+        },
+        "/data/pair/re-mapping": {
+            "IP": {
+                "hour": 0,
+                "day": 1,
+                "month": 581,
+                "total_calls": 918,
+                "last_used": 1555320760
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 21,
+                "month": 173,
+                "total_calls": 200,
+                "last_used": 1555336717
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 21,
+                "total_calls": 217,
+                "last_used": 1555237487
+            }
+        },
+        "/data/ob/l2/exchanges": {
+            "IP": {
+                "hour": 0,
+                "day": 1,
+                "month": 2347,
+                "total_calls": 2499,
+                "last_used": 1555320634
+            },
+            "ApiKey": {
+                "hour": 0,
+                "day": 1,
+                "month": 60,
+                "total_calls": 155,
+                "last_used": 1555332212
+            },
+            "AuthKey": {
+                "hour": 0,
+                "day": 0,
+                "month": 65,
+                "total_calls": 229,
+                "last_used": 1555268230
+            }
+        },
+        "/data/ob/l2/snapshot": {
+            "IP": {
+                "hour": 0,
+                "day": 2,
+                "month": 1137,
+                "total_calls": 3299,
+                "last_used": 1555326442
+            },
+            "ApiKey": {
+                "hour": 4,
+                "day": 775,
+                "month": 13877,
+                "total_calls": 197791,
+                "last_used": 1555339758
+            },
+            "AuthKey": {
+                "hour": 12,
+                "day": 145,
+                "month": 6159,
+                "total_calls": 32509,
+                "last_used": 1555339756
+            }
+        }
+    }
+}
