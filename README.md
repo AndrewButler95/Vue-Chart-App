@@ -8,10 +8,10 @@ Its been modified to only run from dev mode, as the real endpoints were confiden
 
 ## Running the dashboard
 
-# install dependencies
+install dependencies
 npm install
 
-# develop
+develop
 npm run dev
 
 This will automatically open http://localhost:9527.
