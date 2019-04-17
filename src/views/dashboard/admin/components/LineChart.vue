@@ -47,7 +47,7 @@ export default {
     }
     const fullURL = getFullURL(baseUrl, options)
 
-    axios.get(fullURL, { headers: headers }).then(
+    axios.get(fullURL).then(
       function(res) {
         this.data = res
         this.chart = this.createchartFull(
@@ -147,8 +147,6 @@ export default {
           valueAxis.logarithmic = true
           valueAxis2.logarithmic = true
           valueAxis3.logarithmic = true
-
-          console.log('is percent mode', data)
         } else {
           data = this.createData2(interval, res)
           chart.numberFormatter.numberFormat = '#a'
